@@ -6,4 +6,4 @@
 
 Ссылка на бота в тг - https://t.me/dnd_quest_bot_bot
 
-Ссылка на репозиторий в GitHub - 
+Ссылка на репозиторий в GitHub - https://github.com/Sibdok/DnD_quest
